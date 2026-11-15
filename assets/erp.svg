@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" role="img" aria-label="Project preview illustration">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d35"/><stop offset="1" stop-color="#07101f"/></linearGradient>
+      <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#0891b2"/></linearGradient>
+      <filter id="shadow"><feGaussianBlur stdDeviation="12"/></filter>
+    </defs>
+    <rect width="760" height="440" rx="28" fill="url(#bg)"/>
+    <circle cx="600" cy="90" r="130" fill="#0891b2" opacity=".12" filter="url(#shadow)"/>
+    <circle cx="120" cy="380" r="130" fill="#22d3ee" opacity=".08" filter="url(#shadow)"/>
+    <g opacity=".12" stroke="#8be9f7"><path d="M0 90H760M0 180H760M0 270H760M0 360H760"/><path d="M95 0V440M190 0V440M285 0V440M380 0V440M475 0V440M570 0V440M665 0V440"/></g><rect x="100" y="55" width="560" height="330" rx="18" fill="#0b1426" stroke="#29425e" stroke-width="2"/>
+        <rect x="100" y="55" width="560" height="42" rx="18" fill="#14243b"/><circle cx="126" cy="76" r="5" fill="#fb7185"/><circle cx="145" cy="76" r="5" fill="#fbbf24"/><circle cx="164" cy="76" r="5" fill="#34d399"/>
+        <rect x="122" y="116" width="110" height="245" rx="10" fill="#111f34"/><rect x="140" y="139" width="72" height="8" rx="4" fill="#67e8f9"/><g fill="#48617e"><rect x="140" y="166" width="58" height="6" rx="3"/><rect x="140" y="190" width="65" height="6" rx="3"/><rect x="140" y="214" width="52" height="6" rx="3"/><rect x="140" y="238" width="62" height="6" rx="3"/></g>
+        <rect x="252" y="116" width="180" height="94" rx="10" fill="#152941"/><rect x="272" y="135" width="70" height="7" rx="3" fill="#7892ad"/><text x="272" y="181" font-size="30" font-family="Arial" fill="#e7f7ff" font-weight="700">1,284</text><rect x="452" y="116" width="184" height="94" rx="10" fill="#152941"/><rect x="472" y="135" width="75" height="7" rx="3" fill="#7892ad"/><text x="472" y="181" font-size="30" font-family="Arial" fill="#67e8f9" font-weight="700">86.4%</text>
+        <rect x="252" y="228" width="384" height="133" rx="10" fill="#111f34"/><path d="M275 327L320 296L365 310L410 265L455 283L500 245L545 270L610 236" fill="none" stroke="#22d3ee" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M275 327L320 296L365 310L410 265L455 283L500 245L545 270L610 236V340H275Z" fill="#22d3ee" opacity=".1"/></svg>
